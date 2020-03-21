@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "57a88838c95ca05273601a31d804a929",
+    "revision": "2199efaaec5a954b05b73f945ba384e4",
     "url": "/InstaBook/index.html"
   },
   {
-    "revision": "26e028a1159a346cd4f8",
+    "revision": "46a30a45d8b2b272b34d",
     "url": "/InstaBook/static/css/main.c977c06c.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/InstaBook/static/js/2.f1099afa.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "26e028a1159a346cd4f8",
-    "url": "/InstaBook/static/js/main.ef2faf7f.chunk.js"
+    "revision": "46a30a45d8b2b272b34d",
+    "url": "/InstaBook/static/js/main.3953ce5c.chunk.js"
   },
   {
     "revision": "b20f3a82f3573c270388",
