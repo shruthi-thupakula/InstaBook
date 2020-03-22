@@ -1,22 +1,23 @@
 {
   "files": {
     "main.css": "/InstaBook/static/css/main.c977c06c.chunk.css",
-    "main.js": "/InstaBook/static/js/main.3953ce5c.chunk.js",
-    "main.js.map": "/InstaBook/static/js/main.3953ce5c.chunk.js.map",
+    "main.js": "/InstaBook/static/js/main.81e95e05.chunk.js",
+    "main.js.map": "/InstaBook/static/js/main.81e95e05.chunk.js.map",
     "runtime-main.js": "/InstaBook/static/js/runtime-main.80c706c6.js",
     "runtime-main.js.map": "/InstaBook/static/js/runtime-main.80c706c6.js.map",
-    "static/js/2.f1099afa.chunk.js": "/InstaBook/static/js/2.f1099afa.chunk.js",
-    "static/js/2.f1099afa.chunk.js.map": "/InstaBook/static/js/2.f1099afa.chunk.js.map",
+    "static/js/2.269034a6.chunk.js": "/InstaBook/static/js/2.269034a6.chunk.js",
+    "static/js/2.269034a6.chunk.js.map": "/InstaBook/static/js/2.269034a6.chunk.js.map",
     "index.html": "/InstaBook/index.html",
-    "precache-manifest.0637fd682d80862936f5cb3c984aac09.js": "/InstaBook/precache-manifest.0637fd682d80862936f5cb3c984aac09.js",
+    "precache-manifest.4b155e0263af6068c0c69986930711a3.js": "/InstaBook/precache-manifest.4b155e0263af6068c0c69986930711a3.js",
     "service-worker.js": "/InstaBook/service-worker.js",
     "static/css/main.c977c06c.chunk.css.map": "/InstaBook/static/css/main.c977c06c.chunk.css.map",
-    "static/js/2.f1099afa.chunk.js.LICENSE.txt": "/InstaBook/static/js/2.f1099afa.chunk.js.LICENSE.txt"
+    "static/js/2.269034a6.chunk.js.LICENSE.txt": "/InstaBook/static/js/2.269034a6.chunk.js.LICENSE.txt",
+    "static/media/InstaBook.jpg": "/InstaBook/static/media/InstaBook.2aa558cb.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.80c706c6.js",
-    "static/js/2.f1099afa.chunk.js",
+    "static/js/2.269034a6.chunk.js",
     "static/css/main.c977c06c.chunk.css",
-    "static/js/main.3953ce5c.chunk.js"
+    "static/js/main.81e95e05.chunk.js"
   ]
 }
